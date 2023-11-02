@@ -8,4 +8,6 @@ For each image, one radiologist fulfills the labelling while the other verifies 
 The segmentation includes seven substructures: Myo, LV, RV, PA, Ao, LCA, and RCA, and the labelling of each 
 image goes by 1-1.5 hours.
 
-Please send emails to Prof. Xiaowei Xu xiao.wei.xu@foxmail.com for the download link and the password of the dataset.
+**HIGHLIGHT** 20231101: We have deployed the dataset on Kaggle! https://www.kaggle.com/xiaoweixumedicalai/datasets
+
+Please send emails to xiao.wei.xu@foxmail.com for any questions.
